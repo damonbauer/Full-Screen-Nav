@@ -124,5 +124,3 @@ Do whatever you want [(read more)](LICENSE.md). If I helped you in any way (usin
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/damonbauer/full-screen-nav/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/damonbauer/full-screen-nav/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
