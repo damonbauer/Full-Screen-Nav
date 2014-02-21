@@ -35,7 +35,7 @@ You’ll have to set the `<nav>` offscreen to begin with. In the demo, I do this
 
 ```css
 nav {
-	position: fixed;
+	position: absolute;
 	top:-100%;
 	width:100%;
 	z-index:10;
@@ -50,7 +50,7 @@ nav.open {
 }
 ```
 
-Also, you’ll need to position the close button. I do this by applying the following CSS:
+Also, you’ll need to position the close button. I do this by applying the following CSS (using the same class as defined in the plugin options [default is “.close-menu-btn”]):
 
 ```css
 a.close-menu-btn {
