@@ -121,6 +121,3 @@ The concept for this navigation menu first came from [Huge Inc] (http://www.huge
 <a name="credits"></a>
 ## License
 Do whatever you want [(read more)](LICENSE.md). If I helped you in any way (using the plugin, learning something from the code, etc), I’d love to hear about it!
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/damonbauer/full-screen-nav/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
