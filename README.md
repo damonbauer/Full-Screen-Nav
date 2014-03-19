@@ -1,5 +1,5 @@
-# jQuery Full Screen Nav | [Demo](http://damonbauer.me/projects/jquery-fullscreennav/)
-The intent of this plugin is to make a `<nav>` menu overlay the full screen & calculate a size for links on page load and window resize. There are a few options, [which are defined below](#options).
+# jQuery Full Screen Nav | [Demo](http://damonbauer.github.io/Full-Screen-Nav)
+This plugin aims to make a `<nav>` menu overlay the entire screen while calculating the size of it’s links on page load and window resize. There are a few options, [which are defined below](#options).
 
 The plugin uses `rem` units, so it requires at least IE 9 by default.
 
